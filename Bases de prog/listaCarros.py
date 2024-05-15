@@ -10,7 +10,7 @@ class Carro:
 
 def main():
 
-    lista
+    #teste teste teste testedoidodoidoododo
 
     while True:
         print("Lista de carros, Escolha uma das opções:")
